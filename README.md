@@ -21,7 +21,6 @@
 
 - `https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/`
 - `https://www.youtube.com/watch?v=-_XkGju35MI`
-- `https://www.youtube.com/watch?v=-_XkGju35MI&feature=emb_title`
 - `https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/`
 - `https://create.arduino.cc/projecthub/Sanjus-Robotics-Studio/gps-location-finder-8139b4`
 - `https://www.youtube.com/watch?v=azxshrFSgnA&feature=emb_title`
