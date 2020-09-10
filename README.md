@@ -11,12 +11,10 @@
 
 ## Notes
   
-- Average consumption for Arduino w/ sleep for 2mins
-
+- Average consumption for Arduino w/ sleep for 2mins  
 `(10mA*.5s + 16uA*120s)/120.5s = (5 + 1.92)/120.5 = .05mA (50uA)`
 
-- Average battery time w/ 9V battery (~450mAh)
-
+- Average battery time w/ 9V battery (~450mAh)  
 `450mAh/.05mA = 9000h = 375d = 1.03y!`
   
 ## References
