@@ -1,15 +1,15 @@
 ## What to buy
 
-- 2x Breadboard  
-  - `https://www.ptrobotics.com/breadboards/833-breadboard-mini-self-adhesive-white.html` (~€6)
-- 2x Arduino
-  - `https://store.arduino.cc/nano-every-pack` (€22.80/3)
-- 1x Temperature Sensor
-  - `https://www.ptrobotics.com/sensores-de-temperatura/1120-tmp36-temperature-sensor.html` (~€2)
-- 2x Radio Transceiver
-  -  `https://www.ptrobotics.com/nordic-nrf24/2537-nrf24l01-module.html` (~€9)
+- 3x Breadboard  
+  - `https://www.ptrobotics.com/breadboards/833-breadboard-mini-self-adhesive-white.html` (~€9)
+- 3x Arduino
+  - `https://store.arduino.cc/nano-every-pack` (€22.80)
+- 2x Temperature Sensor
+  - `https://www.ptrobotics.com/sensores-de-temperatura/1120-tmp36-temperature-sensor.html` (~€4)
+- 3x Radio Transceiver
+  -  `https://www.ptrobotics.com/nordic-nrf24/2537-nrf24l01-module.html` (~€13.5)
   
-Total: **~€39.8**
+Total: **~€49.4**
 
 ## Notes
   
@@ -18,6 +18,15 @@ Total: **~€39.8**
 
 - Average battery time w/ 9V battery (~450mAh)  
 `450mAh/.05mA = 9000h = 375d = 1.03y!`
+
+## Plan
+
+- [ ] Create MVP
+	- [ ] Get components
+	- [ ] Mount 3 devices communicating (1 transmitters, 1 receiver)
+	- [ ] Create server with database
+	- [ ] Send information to database
+	- [ ] Show it on Graphana
   
 ## References
 
