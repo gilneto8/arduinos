@@ -3,13 +3,13 @@
 - 2x Breadboard  
   - `https://www.ptrobotics.com/breadboards/833-breadboard-mini-self-adhesive-white.html` (~€6)
 - 2x Arduino
-  - `https://store.arduino.cc/arduino-nano` (€40)
+  - `https://store.arduino.cc/nano-every-pack` (€22.80/3)
 - 1x Temperature Sensor
   - `https://www.ptrobotics.com/sensores-de-temperatura/1120-tmp36-temperature-sensor.html` (~€2)
 - 2x Radio Transceiver
-  -  `https://www.amazon.es/WayinTop-Comunicaci%C3%B3n-Transceptor-Inal%C3%A1mbrico-Compatible/dp/B07P95X6HM` (~€13)
+  -  `https://www.ptrobotics.com/nordic-nrf24/2537-nrf24l01-module.html` (~€9)
   
-Total: **~€61**
+Total: **~€39.8**
 
 ## Notes
   
@@ -21,6 +21,7 @@ Total: **~€61**
   
 ## References
 
+- [NRF24L01 vs NRF24L01+](https://www.seeedstudio.com/blog/2019/11/21/nrf24l01-getting-started-arduino-guide/)
 - `https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/`
 - `https://www.youtube.com/watch?v=-_XkGju35MI`
 - `https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/`
