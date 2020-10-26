@@ -23,7 +23,7 @@ Total: **~€49.4**
 
 - [ ] Create MVP
 	- [ ] Get components
-	- [ ] Mount 3 devices communicating (1 transmitters, 1 receiver)
+	- [ ] Mount 3 devices communicating (2 transmitters, 1 receiver)
 	- [ ] Create server with database
 	- [ ] Send information to database
 	- [ ] Show it on Graphana
