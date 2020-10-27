@@ -3,9 +3,7 @@
 #include <SPI.h>
 
 RF24 radio (7, 8);
-RF24Network network(radio);      // Include the radio in the network
-const uint16_t this_node = 00;   // Address of this node in Octal format ( 04,031, etc)
-const uint16_t node01 = 01;    
+
 struct package
 {
   int id=1;
@@ -14,17 +12,14 @@ struct package
 };
 typedef struct package Package;
 Package data;
-byte addresses[][6] = {"0"};
+const uint64_t pipe = 0xE6E6E6B2B2B2;
 
 void setup()
 {
   Serial.begin(9600);
   delay(1000);
-  radio.begin();  
-  radio.setChannel(115); 
-  radio.setPALevel(RF24_PA_MAX);
-  radio.setDataRate( RF24_250KBPS ) ; 
-  radio.openWritingPipe( addresses[0]);
+  radio.begin();
+  radio.openWritingPipe(pipe);
   delay(1000);
 }
 
