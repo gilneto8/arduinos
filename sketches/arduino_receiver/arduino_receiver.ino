@@ -17,7 +17,7 @@ Package data;
 byte addresses[][6] = {"0"};
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   delay(1000);
   myRadio.begin(); 
   myRadio.setChannel(115); 
